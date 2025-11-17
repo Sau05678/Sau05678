@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **sauravkr.05678@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1f4PQFDTaQ4FLTaNbpqUnTLeqC2D_ZMuw/view?usp=sharing](https://drive.google.com/file/d/1f4PQFDTaQ4FLTaNbpqUnTLeqC2D_ZMuw/view?usp=sharing)
+- 📄 Know about my experiences (https://www.linkedin.com/in/saurav-kumar-98a1b1220/)
 
 <h3>🛠️ Technical Skills</h3>
 <h4>Languages:
