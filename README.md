@@ -5,7 +5,7 @@
 📧 sauravkr.05678@gmail.com
 📞 +91 9546932298
 
-- 🤝 I’m looking for Job with **Java Developer**
+- 🤝 I’m looking for Job with **Web Developer(React.js,Node.js/Java Spring Boot)**
 
 - 💬 Ask me about **Reactjs,Nodejs,Java,spring**
 
