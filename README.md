@@ -25,9 +25,9 @@ React, Spring</h4>
 <p>Hands-on experience developing responsive UIs using React.js.</p>
 <p>Built and maintained self-contained feature modules using React.js and TypeScript, gaining
 strong experience in scalable frontend architecture.</p>
-<p>ERP Modernization: Developed ERP system UI using React.js, implementing search functionality, Login validation, and responsive components; optimized Spring Boot backend APIs and database indexes, achieving a 50% improvement in user interaction and a 40% increase in response efficiency.</p>
-<p>Java Microservices: Designed and implemented a Java-based microservice for managing customer loan
-applications, demonstrating knowledge of microservice architecture, RESTful APIs, and database integration</p>
+<p>ERP Modernization: Developed ERP system UI using React.js, implementing search functionality, Login validation, Cards Components and responsive components; optimized Spring Boot backend APIs and database indexes, achieving a 50% improvement in user interaction and a 40% increase in response efficiency.</p>
+<p>Developed scalable Node.js and Express.js microservices for Payment dashboard applications, integrating JWT
+authentication middleware to secure RESTful APIs and support core dashboard functionalities.</p>
 
 
 
