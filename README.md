@@ -15,9 +15,9 @@
 
 <h3>🛠️ Technical Skills</h3>
 <h4>Languages:
-Java , JavaScript/TypeScript</h4>
+Java , JavaScript/TypeScript, Node.js</h4>
 <h4>Frameworks & Tools:
-React, Spring</h4>
+React, Express.js, Spring</h4>
 
 <h3>💼 Professional Experience</h3>
 <h4>Tavant Technology (Jan 2024 - Present)
