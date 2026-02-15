@@ -29,6 +29,12 @@ strong experience in scalable frontend architecture.</p>
 <p>Developed scalable Node.js and Express.js microservices for Payment dashboard applications, integrating JWT
 authentication middleware to secure RESTful APIs and support core dashboard functionalities.</p>
 
+<h4>AlmaBetter (Feb 2023 - Oct-2023)
+<h5>Data science</h5>
+<p>Conducted data cleaning, preprocessing, and merging operations to ensure data accuracy and consistency.</p>
+<p>Analyzed Netflix movie streaming data, identifying a 2,000+ decline in movies since 2010 and a near-tripling of
+TV shows.</p>
+
 
 
 
